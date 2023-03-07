@@ -17,8 +17,6 @@
 - 🤔 My blog 👉 https://wxydaydayup.github.io/         
 - 📫 My E-mail: 1766695273@qq.com        
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
-
-
 ![Java](https://img.shields.io/badge/-Java-green?style=social&logo=OpenJDK)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
@@ -29,3 +27,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-red?style=social&logo=docker)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social) 
 
+### My GitHub Contributions    
+
+![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)        
