@@ -13,7 +13,7 @@
 
 ### Talking about Personal Stuffs  
 
-- 🔭 I’m currently striving for a better life in Dalian.     
+- 🔭 I’m currently striving for a better life in Tianjin.     
 - 🤔 My blog 👉 https://wxydaydayup.github.io/         
 - 📫 My E-mail: 1766695273@qq.com        
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
