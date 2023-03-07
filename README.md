@@ -7,7 +7,7 @@
 ---
 
 ### Hi there 👋 
-### I'm xiaowu, an ordinary programmer. 
+### I'm XinYi, an ordinary programmer. 
 
 ⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.88 %
 
@@ -20,38 +20,12 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wang-xiaowu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wang-xiaowu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wang-xiaowu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Repositories
-
-<a href="https://github.com/behappy-project/behappy-screw-doc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-screw-doc&theme=buefy" />
-</a>
-<a href="https://github.com/behappy-project/behappy-gitbook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-gitbook&theme=buefy" />
-</a>
-<a href="https://github.com/behappy-project/behappy-redis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-redis&theme=buefy" />
-</a>
-<a href="https://github.com/behappy-project/behappy-url-shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-url-shortener&theme=buefy" />
-</a>
-<a href="https://github.com/behappy-project/behappy-sentinel-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-sentinel-dashboard&theme=buefy" />
-</a>
-<a href="https://github.com/behappy-hospital">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-hospital&repo=behappy-hospital&theme=buefy" />
-</a>
-<a href="https://github.com/behappy-project/behappy-netty-chatroom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-netty-chatroom&theme=buefy" />
-</a>
-<a href="https://github.com/behappy-project/behappy-canal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=behappy-project&repo=behappy-canal&theme=buefy" />
-</a>
 
 ### Talking about Personal Stuffs  
 
 - 🔭 I’m currently striving for a better life in Dalian.     
-- 🤔 My blog 👉 https://wang-xiaowu.github.io/         
-- 📫 My E-mail: wangxiaowu950330@foxmail.com          
+- 🤔 My blog 👉 https://wxydaydayup.github.io/         
+- 📫 My E-mail: 1766695273@qq.com        
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
 
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
