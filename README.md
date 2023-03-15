@@ -8,8 +8,7 @@
 
 ---
 
-### Hi there 👋 
-### I'm XinYi, I am a student of Tianjin University！
+### Hi there 👋 I'm XinYi, I am a student of Tianjin University！
 
 ⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.88 %
 
