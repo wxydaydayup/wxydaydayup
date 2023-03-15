@@ -2,13 +2,13 @@
 💖 My E-mail: 1766695273@qq.com          
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
-⏰ Updated on 2023/03/07 06:13:16
+⏰ Updated on 2023/03/15 06:13:16
 
 ---
 
 ### Hi there 👋 I'm XinYi, I am a student of Tianjin University！
 
-⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.88 %
+⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 100.00 %
 
 ### My GitHub Contributions    
 ![](https://github.com/wxydaydayup/wxydaydayup/blob/master/assets/github-contribution-grid-snake.svg)  
