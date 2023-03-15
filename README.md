@@ -1,6 +1,6 @@
 ![me](https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/result.gif)
 
-💖 My blog 👉 https://wxydaydayup.github.io/         
+💖 My blog: https://wxydaydayup.github.io/         
 💖 My E-mail: 1766695273@qq.com          
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
