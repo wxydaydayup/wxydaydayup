@@ -1,14 +1,14 @@
+<h2>Hi, I'm XinYi <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+💖 I am a student of Tianjin University! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 💖 My blog: https://wxydaydayup.github.io/         
-💖 My E-mail: 1766695273@qq.com          
+💖 My E-mail: 1766695273@qq.com         <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 <img align="right" width="150px" src="https://cdn.jsdelivr.net/gh/wang-xiaowu/picture_repository@master/heart.svg"/>
 
 ⏰ Updated on 2023/03/15 06:13:16
 
 ---
 
-### Hi there 👋 I'm XinYi, I am a student of Tianjin University！
-
-⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 100.00 %
+⏳ Age { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 22.00 %
 
 ### My GitHub Contributions    
 ![](https://github.com/wxydaydayup/wxydaydayup/blob/master/assets/github-contribution-grid-snake.svg)  
@@ -20,4 +20,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-lightgrey?style=social&logo=Redis)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social) 
-     
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
